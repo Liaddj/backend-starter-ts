@@ -1,0 +1,4 @@
+3.3.2026, 14:08:53 - INFO - Test API at: http://localhost:3030/api/item
+3.3.2026, 14:08:53 - INFO - Server is running on port: 3030
+3.3.2026, 14:09:48 - DEBUG - Getting Items
+3.3.2026, 14:09:48 - INFO - Connected to DB successfully
